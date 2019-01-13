@@ -2,10 +2,15 @@ body{
   max-width: 1000px;
   background-color: red;
   background-image: url(images/carrain.jpg);
+  font-family: 'Roboto', sans-serif;
 }
 
 h1{
   color: blue;
+}
+
+ul{
+  list-style-type: none;
 }
 
 img{
@@ -18,6 +23,7 @@ p{
 
 a{
   color: white;
+  text-decoration: none;
 }
 
 .link{
