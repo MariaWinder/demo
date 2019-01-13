@@ -1,1 +1,25 @@
-m
+body{
+  max-width: 1000px;
+  background-color: red;
+  background-image: url(images/carrain.jpg);
+}
+
+h1{
+  color: blue;
+}
+
+img{
+  max-width: 50%;
+}
+
+p{
+  color: pink;
+}
+
+a{
+  color: white;
+}
+
+.link{
+  color: green;
+}
